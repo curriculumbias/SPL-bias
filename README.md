@@ -17,6 +17,20 @@ Neural ranking models often amplify biases present in training data, particularl
 
 ## Evaluation Datasets
 
+| Dataset       | Sample                                                                 |
+|---------------|-------------------------------------------------------------------------|
+| 215 queries   | what body fat percentage is healthy                                     |
+|               | which theory of personality focuses on the influence of the unconscious mind |
+|               | when do babies pick up stuff                                            |
+|               | are hormones import                                                     |
+|               | rsm meaning home care                                                   |
+|---------------|-------------------------------------------------------------------------|
+| 1765 queries  | how much sleep in one day does a baby need                              |
+|               | how many weeks can a puppy get spayed                                   |
+|               | which microscope were cells first observed                              |
+|               | what part of a plant contains the stigma, style. and ovary              |
+|               | what are intelligence tests                                             |
+
 
 ## Key Results
 
