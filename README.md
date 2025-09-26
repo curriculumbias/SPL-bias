@@ -17,19 +17,50 @@ Neural ranking models often amplify biases present in training data, particularl
 
 ## Evaluation Datasets
 
-| Dataset       | Sample                                                                 |
-|---------------|-------------------------------------------------------------------------|
-| 215 queries   | what body fat percentage is healthy                                     |
-|               | which theory of personality focuses on the influence of the unconscious mind |
-|               | when do babies pick up stuff                                            |
-|               | are hormones import                                                     |
-|               | rsm meaning home care                                                   |
-|---------------|-------------------------------------------------------------------------|
-| 1765 queries  | how much sleep in one day does a baby need                              |
-|               | how many weeks can a puppy get spayed                                   |
-|               | which microscope were cells first observed                              |
-|               | what part of a plant contains the stigma, style. and ovary              |
-|               | what are intelligence tests                                             |
+We have included some sample queries from the 215 queries dataset, and 1765 queries dataset in the table bellow.
+
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <td rowspan="5">215 queries</td>
+    <td>what body fat percentage is healthy</td>
+  </tr>
+  <tr>
+    <td>which theory of personality focuses on the influence of the unconscious mind</td>
+  </tr>
+  <tr>
+    <td>when do babies pick up stuff</td>
+  </tr>
+  <tr>
+    <td>are hormones import</td>
+  </tr>
+  <tr>
+    <td>rsm meaning home care</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="background-color:#ccc;"></td>
+  </tr>
+  <tr>
+    <td rowspan="5">1765 queries</td>
+    <td>how much sleep in one day does a baby need</td>
+  </tr>
+  <tr>
+    <td>how many weeks can a puppy get spayed</td>
+  </tr>
+  <tr>
+    <td>which microscope were cells first observed</td>
+  </tr>
+  <tr>
+    <td>what part of a plant contains the stigma, style. and ovary</td>
+  </tr>
+  <tr>
+    <td>what are intelligence tests</td>
+  </tr>
+</table>
+
 
 
 ## Key Results
