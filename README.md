@@ -15,6 +15,9 @@ Neural ranking models often amplify biases present in training data, particularl
 
 ---
 
+## Evaluation Datasets
+
+
 ## Key Results
 
 Evaluations were conducted on two query sets from MS MARCO: 215 socially sensitive queries and 1,765 gender-neutral queries. Results show:
@@ -69,7 +72,7 @@ Evaluations were conducted on two query sets from MS MARCO: 215 socially sensiti
 
 The following figure shows the demographic skew in the loss landscape, illustrating that loss can serve as a proxy for bias:
 
-![Loss Gap](plots/loss_gap_plot.png)
+![Loss Gap](plots/loss_gap.png)
 
 ### Bias-Performance Trade-off
 
