@@ -1,7 +1,3 @@
-"""
-12.2.2021
-Author: Shirin
-"""
 EXPERIMENT = "electrasmall_original_1.trec"
 EXPERIMENT_FP = "/mnt/data/shirin/bias_aware_loss_journal/reranked/215_queries/electrasmall/pairwise/"+EXPERIMENT
 
